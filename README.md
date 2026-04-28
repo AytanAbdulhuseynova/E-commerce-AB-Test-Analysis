@@ -43,10 +43,10 @@ This project applies statistical methods to determine whether the differences ob
 - **p-value:** `0.7468` → **Not Statistically Significant.**
 - *Insight:* Overall conversion rates did not differ meaningfully between male and female users.
 
-### ✅ Country-wise Revenue (Kruskal-Wallis Test)
-- **p-value:** `< 0.05` → **Statistically Significant.**
-- *Insight:* Revenue differed significantly across regions — country is a meaningful factor in purchase behavior.
-
+### ❌ Country-wise Revenue (Kruskal-Wallis Test)
+- **p-value:** `0.3879` → **Not Statistically Significant.**
+- *Insight:* No significant difference in revenue across countries was detected.
+- 
 ## 🎯 Gender Segmentation (Crucial Discovery)
 - **Male users:** `p-value: 0.011` → **Significant ✅**
 - **Female users:** `p-value: 0.192` → **Not Significant ❌**
