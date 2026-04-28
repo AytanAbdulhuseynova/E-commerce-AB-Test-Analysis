@@ -21,6 +21,8 @@ This project applies statistical methods to determine whether the differences ob
 
 ## 📈 Key Results & Statistics
 
+![Hypothesis Results](hypothesis_results.png)
+
 ### ✅ Conversion Rate (Chi-Square Test)
 - **Group A:** 7.69% | **Group B:** 9.45%
 - **p-value:** `0.0055` → **Statistically Significant.**
